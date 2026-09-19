@@ -1,0 +1,8 @@
+{
+  "name": "PASAR KITA",
+  "description": "Platform pengurusan sisa tekstil menghubungkan pembekal perniagaan, pengumpul komuniti, dan pembeli fabrik.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
